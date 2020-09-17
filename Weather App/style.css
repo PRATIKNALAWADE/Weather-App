@@ -72,7 +72,6 @@ input[type="submit"]{
   position: absolute;
   height: 23%;
   width: 12%;
-  transition: 0.2s ease-in-out;
   top:65%;
   left:40%;
   border-radius: 12px;
